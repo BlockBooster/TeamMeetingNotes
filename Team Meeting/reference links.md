@@ -2,6 +2,7 @@
 
 - 블루투스
 	- [프로토콜 스택](http://blog.naver.com/windi97/220603292879)
+	- [BLE 파헤치기](https://zoyi.co/tech-blog/2015/11/03/Bluetoot-Low-Energy-BLE-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/)
 	- Android-Bluetooth
 		- [api 설명](http://www.hardroid.net/archives/190)
 		- [튜토리얼?](http://arsviator.blogspot.kr/2014/06/bluetooth-programming-in-android-12.html)
